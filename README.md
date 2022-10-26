@@ -145,7 +145,10 @@ Afterwards add the following code in order to change the color of your LED depen
 
 Once you've followed all the steps. You should be able to change the color of your LED depending on the time of day.
 
-#Errors
+# Errors
+
+Below is an image of the error I encountered. It wasn't anything major as it was only a misplaced bracket in the code.
+<img src="/images-map-manual/bracketerror.png"> 
 
 
 
