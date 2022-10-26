@@ -16,6 +16,7 @@ A ledstrip as shown above
 In order to get the time, we’ll use the NTPClient library. In your Arduino IDE, go to Sketch > Library > Manage Libraries.
 
 Search for NTPClient and install the library by Fabrice Weinber as shown in the following image.
+
 <img src="/images-map-manual/ntpclient-fabrice-weinberg.png"> 
 
 Make sure you don't use the code supplied by the library as this will not grant you the results you are looking for.
@@ -132,15 +133,19 @@ void loop() {
 ~~~
 
 After you've copied the raw code into ur file, change the timeClient.setTimeOffset from 0 to 7200 as shown in the image below:
+
 <img src="/images-map-manual/timeclient7200.png"> 
 
 After you have completed this step. You must write an if else statement like in the following image:
+
 <img src="/images-map-manual/ifelse.png"> 
+
 At this period in time only use the serial monitor to see if your code works.
 
 Once you know the code works properly, navigate to File > Example > Adafruit NeoPixel > Simple
 
 Afterwards add the following code in order to change the color of your LED depending on the time of day.
+
 <img src="/images-map-manual/ifelse2.png"> 
 
 Once you've followed all the steps. You should be able to change the color of your LED depending on the time of day.
@@ -148,6 +153,7 @@ Once you've followed all the steps. You should be able to change the color of yo
 # Errors
 
 Below is an image of the error I encountered. It wasn't anything major as it was only a misplaced bracket in the code.
+
 <img src="/images-map-manual/bracketerror.png"> 
 
 
