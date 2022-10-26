@@ -115,7 +115,8 @@ void loop() {
   Serial.println("");
 
   delay(2000);
-} ~~~
+} 
+~~~
 
 After you've copied the raw code into ur file, change the timeClient.setTimeOffset from 0 to 7200 as shown in the image below:
 <img src="/images-map-manual/timeclient7200.png"> 
