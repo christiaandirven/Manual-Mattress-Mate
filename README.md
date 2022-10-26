@@ -1,5 +1,14 @@
 # Manual-Mattress-Mate
 
+# Required Hardware
+
+The hardware required for this tutorial is the following:
+
+<img src="/images-map-manual/esp8266.png">
+
+<img src="/images-map-manual/ledstrip.png">
+
+
 In order to get the time, we’ll use the NTPClient library. In your Arduino IDE, go to Sketch > Library > Manage Libraries.
 
 Search for NTPClient and install the library by Fabrice Weinber as shown in the following image.
