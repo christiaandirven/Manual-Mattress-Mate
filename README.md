@@ -9,7 +9,7 @@ Make sure you don't use the code supplied by the library as this will not grant 
 (I initially used this code, but was unable to make it work)
 
 Once you've installed the library, copy the following raw code in your file:
-/*
+~~~ /*
   Rui Santos
   Complete project details at https://RandomNerdTutorials.com/esp8266-nodemcu-date-time-ntp-client-server-arduino/
   
@@ -115,7 +115,7 @@ void loop() {
   Serial.println("");
 
   delay(2000);
-}
+} ~~~
 
 After you've copied the raw code into ur file, change the timeClient.setTimeOffset from 0 to 7200 as shown in the image below:
 <img src="/images-map-manual/timeclient7200.png"> 
@@ -130,6 +130,9 @@ Afterwards add the following code in order to change the color of your LED depen
 <img src="/images-map-manual/ifelse2.png"> 
 
 Once you've followed all the steps. You should be able to change the color of your LED depending on the time of day.
+
+#Errors
+
 
 
 
