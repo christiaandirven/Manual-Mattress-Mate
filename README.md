@@ -1,5 +1,20 @@
 # Manual-Mattress-Mate
 
+# Content
+- Before we get started
+  - What are we going to do?
+  - Required hardware
+  - Installing Arduino
+  - Arduino libraries
+- The code
+- My installation experience
+  - List of errors
+
+# Before we get started
+# What are we going to do?
+The aim of this manual is to help you get the date and time from an NTP server. For my project I also wanted my LED to light up a certain color at a
+specific time
+
 # Required Hardware
 
 The hardware required for this tutorial is the following:
