@@ -12,16 +12,18 @@
 
 # Before we get started
 # What are we going to do?
-The aim of this manual is to help you get the date and time from an NTP server. For my project I also wanted my LED to light up a certain color at a
-specific time
+The aim of this manual is to help you get the date and time from an NTP server. For my project I also wanted LEDs (Adafruit Neopixel) to light up a certain color at a specific time in order to emulate the effect of Mattress Mate warming up and cooling down. This added step of using LEDs will also be included in this tutorial.
 
 # Required Hardware
 
 The hardware required for this tutorial is the following:
+- A laptop or desktop with a stable internet connection
+- A board that can connect to wi-fi (I'm using a NodeMCU ESP8266 as shown below)
 
 <img src="/images-map-manual/esp8266.png">
 
-An esp8266 board as shown above
+- An adapter for the board
+
 
 <img src="/images-map-manual/ledstrip.png">
 
