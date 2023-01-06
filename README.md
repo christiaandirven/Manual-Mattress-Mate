@@ -28,6 +28,7 @@ The hardware required for this tutorial is the following:
 
 - An adapter for the board
 
+- Entry level understanding of Arduino code
 
 In order to get the time, we’ll use the NTPClient library. In your Arduino IDE, go to Sketch > Library > Manage Libraries.
 
