@@ -30,6 +30,10 @@ The hardware required for this tutorial is the following:
 
 - Entry level understanding of Arduino code
 
+# Installing Arduino
+
+Before we do get started on the actual tutorial portion of this manual, you need to install Arduino and make sure it connects to a board that can both send out and receive Wi-Fi signals. In my case this is the NodeMCU ESP8266.
+
 In order to get the time, we’ll use the NTPClient library. In your Arduino IDE, go to Sketch > Library > Manage Libraries.
 
 Search for NTPClient and install the library by Fabrice Weinber as shown in the following image.
