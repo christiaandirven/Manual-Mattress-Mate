@@ -34,6 +34,10 @@ The hardware required for this tutorial is the following:
 
 Before we do get started on the actual tutorial portion of this manual, you need to install Arduino and make sure it connects to a board that can both send out and receive Wi-Fi signals. In my case this is the NodeMCU ESP8266.
 
+You also have to make sure your board is properly installed so that it can connect to the Arduino software. Do this by selecting your specific board and port in Arduino.
+
+To ensure that you do indeed have your board installed, navigate to the Tools option and follow these steps: Tools>Board>Board Manager. Once you're there, look for "esp". select esp8266 by ESP8266 
+
 In order to get the time, we’ll use the NTPClient library. In your Arduino IDE, go to Sketch > Library > Manage Libraries.
 
 Search for NTPClient and install the library by Fabrice Weinber as shown in the following image.
