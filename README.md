@@ -6,8 +6,8 @@
   - What are we going to do?
   - Required hardware
   - Required software
-  - Installing Arduino
   - Arduino libraries
+  - Installing Arduino
 - The code
 - My installation experience
   - List of errors
@@ -38,6 +38,8 @@ The hardware required for this tutorial is the following:
 # Required software
 
 - [Arduino software](https://www.arduino.cc/en/software)
+
+# Arduino libraries
 
 # Installing Arduino
 
