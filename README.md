@@ -1,4 +1,5 @@
 # Manual-Mattress-Mate
+   A manual describing the process of lighting up a LED strip at a certain time during the day.
 
 # Content
 - Before we get started
