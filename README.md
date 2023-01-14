@@ -37,7 +37,7 @@ The hardware required for this tutorial is the following:
 
 # Required software
 
-- Arduino software
+- [Arduino software] (https://www.arduino.cc/en/software)
 
 # Installing Arduino
 
