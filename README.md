@@ -57,8 +57,9 @@ Search for NTPClient and install the library by Fabrice Weinber as shown in the 
 
 <img src="/images-map-manual/ntpclient-fabrice-weinberg.png"> 
 
-Make sure you don't use the code supplied by the library as this will not grant you the results you are looking for.
-(I initially used this code, but was unable to make it work)
+## Important
+If you use the code supplied by the library (as I did the first time), you won't be able to get the desired results but you'll only get
+the following error message:
 
 Once you've installed the library, copy the following raw code in your file:
 ~~~ /*
