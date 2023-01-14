@@ -37,6 +37,8 @@ The hardware required for this tutorial is the following:
 
 # Required software
 
+- Arduino software
+
 # Installing Arduino
 
 Before we do get started on the actual tutorial portion of this manual, you need to install Arduino and make sure it connects to a board that can both send out and receive Wi-Fi signals. In my case this is the NodeMCU ESP8266.
