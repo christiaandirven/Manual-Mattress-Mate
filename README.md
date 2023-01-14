@@ -10,6 +10,7 @@
 - The code
 - My installation experience
   - List of errors
+- Sources
 
 # Before we get started
 # What are we going to do?
@@ -182,6 +183,8 @@ Below is an image of the error I encountered. It wasn't anything major as it was
 
 <img src="/images-map-manual/bracketerror.png"> 
 
+# Sources
 
+https://randomnerdtutorials.com/esp8266-nodemcu-date-time-ntp-client-server-arduino/
 
 
