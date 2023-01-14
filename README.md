@@ -16,6 +16,8 @@
 # What are we going to do?
 The aim of this manual is to help you get the date and time from an NTP server. For my project I also wanted LEDs (Adafruit Neopixel) to light up a certain color at a specific time in order to emulate the effect of Mattress Mate warming up and cooling down. This added step of using LEDs will also be included in this tutorial.
 
+This is only a simulation of the intended function of my product. In my case the trigger for the mattress would be the date and time instead of the room temperature, triggering the LED strip to light up (simulating the mattress heating up).
+
 # Required Hardware
 
 The hardware required for this tutorial is the following:
