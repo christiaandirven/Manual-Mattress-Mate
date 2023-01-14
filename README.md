@@ -5,6 +5,7 @@
 - Before we get started
   - What are we going to do?
   - Required hardware
+  - Required software
   - Installing Arduino
   - Arduino libraries
 - The code
@@ -18,7 +19,7 @@ The aim of this manual is to help you get the date and time from an NTP server. 
 
 This is only a simulation of the intended function of my product. In my case the trigger for the mattress would be the date and time instead of the room temperature, triggering the LED strip to light up (simulating the mattress heating up).
 
-# Required Hardware
+# Required hardware
 
 The hardware required for this tutorial is the following:
 - A laptop or desktop with a stable internet connection
@@ -33,6 +34,8 @@ The hardware required for this tutorial is the following:
 - An adapter for the board
 
 - Entry level understanding of Arduino code
+
+# Required software
 
 # Installing Arduino
 
