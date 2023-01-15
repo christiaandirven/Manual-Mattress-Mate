@@ -60,10 +60,10 @@ Search for NTPClient and install the library by Fabrice Weinber as shown in the 
 <img src="/images-map-manual/ntpclient-fabrice-weinberg.png"> 
 
 ## Important
-If you use the code supplied by the library (as I did the first time), you won't be able to get the desired results but you'll only get
-the following error message:
+source: https://randomnerdtutorials.com/esp8266-nodemcu-date-time-ntp-client-server-arduino/
 
-In order to prevent this error code, you have to copy the following raw code in your file:
+Copy the following code into Arduino. This will serve as a template to get started.
+
 ~~~ /*
   Rui Santos
   Complete project details at https://RandomNerdTutorials.com/esp8266-nodemcu-date-time-ntp-client-server-arduino/
