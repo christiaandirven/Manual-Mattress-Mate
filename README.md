@@ -181,9 +181,14 @@ After you have completed this step. You must write an if else statement like in 
 
 <img src="/images-map-manual/ifelse.png"> 
 
-At this period in time only use the serial monitor to see if your code works.
+At this period in time only use the serial monitor (highlighted in red above) to see if your code works.
 
 Once you know the code works properly, navigate to File > Example > Adafruit NeoPixel > Simple
+
+Ensure you check your serial monitor frequently in case of any sudden disconnect with your network. If you are no longer connected to your network, a row of dots will be displayed in the serial monitor. However, this is only an issue regarding connection and doesn't mean that your code is the problem.
+In order to prevent this, make sure you're not connected to a 5Ghz network.
+
+<img src="/images-map-manual/wifi-connect-error.png"> 
 
 Afterwards add the following code in order to change the color of your LED depending on the time of day.
 
