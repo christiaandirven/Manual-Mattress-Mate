@@ -181,9 +181,9 @@ After you have completed this step. You must write an if else statement like in 
 
 <img src="/images-map-manual/ifelse.png"> 
 
-<img src="/images-map-manual/serialmonitor.png">
+At this period in time only use the serial monitor (highlighted in red below) to see if your code works.
 
-At this period in time only use the serial monitor (highlighted in red above) to see if your code works.
+<img src="/images-map-manual/serialmonitor.png">
 
 Once you know the code works properly, navigate to File > Example > Adafruit NeoPixel > Simple (as shown below)
 
