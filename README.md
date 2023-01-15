@@ -52,9 +52,9 @@ You also have to make sure your board is properly installed so that it can conne
 Failing to select the right port will give you problems later down the line, as you won't be able to connect to your board and follow this manual.
 (port connection errors shown below)
 
-<img src="/images-map-manual/portuploaderror.png">
-
 <img src="/images-map-manual/wrongportconnection.png">
+
+<img src="/images-map-manual/portuploaderror.png">
 
 If you've successfully connected to the right port, you should get a message similar to the following:
 
