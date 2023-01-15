@@ -175,7 +175,7 @@ void loop() {
 
 After you've copied the raw code into your file, change the timeClient.setTimeOffset from 0 to 7200 as shown in the image below:
 
-<img src="/images-map-manual/timeclient7200.png"> 
+<img src="/images-map-manual/7200timeclient.png"> 
 
 After you have completed this step. You must write an if else statement like in the following image:
 
