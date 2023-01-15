@@ -49,6 +49,8 @@ You also have to make sure your board is properly installed so that it can conne
 
 To ensure that you do indeed have your board installed, navigate to the Tools option and follow these steps: Tools>Board>Board Manager. Once you're there, look for "esp". select esp8266 by ESP8266
 
+<img src="/images-map-manual/connectport.png">
+
 # The tutorial
 
 In order to get the time, we’ll use the NTPClient library. In your Arduino IDE, go to Sketch > Library > Manage Libraries.
