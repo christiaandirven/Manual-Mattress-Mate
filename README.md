@@ -49,6 +49,17 @@ You also have to make sure your board is properly installed so that it can conne
 
 <img src="/images-map-manual/rightconnectport.png">
 
+Failing to select the right port will give you problems later down the line, as you won't be able to connect to your board and follow this manual.
+(port connection errors shown below)
+
+<img src="/images-map-manual/portuploaderror.png">
+
+<img src="/images-map-manual/wrongportconnection.png">
+
+If you've successfully connected to the right port, you should get a message similar to the following:
+
+<img src="/images-map-manual/rightport.png">
+
 To ensure that you do indeed have your board installed, navigate to the Tools option and follow these steps: Tools>Board>Board Manager. Once you're there, look for "esp". select esp8266 by ESP8266
 
 # The tutorial
