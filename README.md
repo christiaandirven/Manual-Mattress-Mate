@@ -47,9 +47,9 @@ Before we do get started on the actual tutorial portion of this manual, you need
 
 You also have to make sure your board is properly installed so that it can connect to the Arduino software. Do this by selecting your specific board and port in Arduino.
 
-To ensure that you do indeed have your board installed, navigate to the Tools option and follow these steps: Tools>Board>Board Manager. Once you're there, look for "esp". select esp8266 by ESP8266
-
 <img src="/images-map-manual/connectport.png">
+
+To ensure that you do indeed have your board installed, navigate to the Tools option and follow these steps: Tools>Board>Board Manager. Once you're there, look for "esp". select esp8266 by ESP8266
 
 # The tutorial
 
