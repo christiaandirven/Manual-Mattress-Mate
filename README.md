@@ -186,7 +186,7 @@ At this period in time only use the serial monitor (highlighted in red above) to
 Once you know the code works properly, navigate to File > Example > Adafruit NeoPixel > Simple
 
 Ensure you check your serial monitor frequently in case of any sudden disconnect with your network. If you are no longer connected to your network, a row of dots will be displayed in the serial monitor. However, this is only an issue regarding connection and doesn't mean that your code is the problem.
-In order to prevent this, make sure you're not connected to a 5Ghz network.
+In order to prevent this, make sure you're not connected to a 5Ghz network. (see below the dots highlighted in red)
 
 <img src="/images-map-manual/wifi connect error.png"> 
 
