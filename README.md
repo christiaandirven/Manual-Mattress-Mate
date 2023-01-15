@@ -190,8 +190,7 @@ Once you know the code works properly, navigate to File > Example > Adafruit Neo
 
 ## Important
 
-Ensure you check your serial monitor frequently in case of any sudden disconnect with your network. If you are no longer connected to your network, a row of dots will be displayed in the serial monitor. However, this is only an issue regarding connection and doesn't mean that your code is the problem.
-In order to prevent this, make sure you're not connected to a 5Ghz network. (see below the dots highlighted in red)
+Check your serial monitor frequently to ensure you are connected to the (right) network . If you are no longer connected to a network, (or you ARE connected to a 5Ghz network) a row of dots will be displayed in the serial monitor. This is however, only an issue regarding connection and doesn't mean that your code is the problem. In order to prevent this, make sure you're connected to any network that doesn't run on 5Ghz. (see below the dots highlighted in red)
 
 <img src="/images-map-manual/wifi connect error.png"> 
 
@@ -204,6 +203,7 @@ Once you've followed all the steps. You should be able to change the color of yo
 # Errors
 
 Below is an image of the error I encountered. It wasn't anything major as it was only a misplaced bracket in the code.
+Once I removed the "}" at line 165, it resolved the issue
 
 <img src="/images-map-manual/bracketerror.png"> 
 
