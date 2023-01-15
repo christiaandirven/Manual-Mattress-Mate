@@ -59,7 +59,6 @@ Search for NTPClient and install the library by Fabrice Weinber as shown in the 
 
 <img src="/images-map-manual/ntpclient-fabrice-weinberg.png"> 
 
-## Important
 source: https://randomnerdtutorials.com/esp8266-nodemcu-date-time-ntp-client-server-arduino/
 
 Copy the following code into Arduino. This will serve as a template to get started.
@@ -188,6 +187,8 @@ At this period in time only use the serial monitor (highlighted in red below) to
 Once you know the code works properly, navigate to File > Example > Adafruit NeoPixel > Simple (as shown below)
 
 <img src="/images-map-manual/adafruit neopixel simple.png"> 
+
+## Important
 
 Ensure you check your serial monitor frequently in case of any sudden disconnect with your network. If you are no longer connected to your network, a row of dots will be displayed in the serial monitor. However, this is only an issue regarding connection and doesn't mean that your code is the problem.
 In order to prevent this, make sure you're not connected to a 5Ghz network. (see below the dots highlighted in red)
