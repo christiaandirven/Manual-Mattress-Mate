@@ -201,6 +201,8 @@ Once you know the code works properly, navigate to File > Example > Adafruit Neo
 
 ## Important
 
+https://siytek.com/esp8266-cant-connect-to-wifi-its-probably-one-of-these/
+
 Check your serial monitor frequently to ensure you are connected to the (right) network . If you are no longer connected to a network, (or you ARE connected to a 5Ghz network) a row of dots will be displayed in the serial monitor. This is however, only an issue regarding connection and doesn't mean that your code is the problem. In order to prevent this, make sure you're connected to any network that doesn't run on 5Ghz. (see below the dots highlighted in red)
 
 <img src="/images-map-manual/wifi connect error.png"> 
@@ -222,4 +224,5 @@ Once I removed the "}" at line 165, it resolved the issue
 
 https://randomnerdtutorials.com/esp8266-nodemcu-date-time-ntp-client-server-arduino/
 
+https://siytek.com/esp8266-cant-connect-to-wifi-its-probably-one-of-these/
 
