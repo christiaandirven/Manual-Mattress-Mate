@@ -179,7 +179,7 @@ After you've copied the raw code into your file, change the timeClient.setTimeOf
 
 After you have completed this step. You must write an if else statement like in the following image:
 
-<img src="/images-map-manual/ifels.png"> 
+<img src="/images-map-manual/ifelse.png"> 
 
 At this period in time only use the serial monitor (highlighted in red below) to see if your code works.
 
