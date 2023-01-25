@@ -8,8 +8,8 @@
   - Required software
   - Arduino libraries
   - Installing Arduino
-- The code
-- My installation experience
+- The tutorial
+  - Important
   - List of errors
 - Sources
 
@@ -213,7 +213,7 @@ Afterwards add the following code in order to change the color of your LED depen
 
 Once you've followed all the steps. You should be able to change the color of your LED depending on the time of day.
 
-# Errors
+# List of errors
 
 If you encounter any illogical errors, start off by looking for any misplaced characters within your code, such as: }, ;, :, etc.
 Sometimes finding these will resolve the error and save you time looking for a problem that might not be there.
