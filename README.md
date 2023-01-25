@@ -50,7 +50,7 @@ You also have to make sure your board is properly installed so that it can conne
 <img src="/images-map-manual/rightconnectport.png">
 
 Failing to select the right port will give you problems later down the line, as you won't be able to connect to your board and follow this manual.
-(port connection errors shown below)
+(this will result in the following port connection errors as shown below)
 
 <img src="/images-map-manual/wrongportconnection.png">
 
