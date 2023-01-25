@@ -64,7 +64,7 @@ To ensure that you do indeed have your board installed, navigate to the Tools op
 
 # The tutorial
 
-In order to get the time, we’ll use the NTPClient library. In your Arduino IDE, go to Sketch > Library > Manage Libraries.
+In order to get the time data, we’ll use the NTPClient library. In your Arduino IDE, go to Sketch > Library > Manage Libraries.
 
 Search for NTPClient and install the library by Fabrice Weinber as shown in the following image.
 
@@ -187,11 +187,11 @@ After you've copied the raw code into your file, change the timeClient.setTimeOf
 
 <img src="/images-map-manual/7200timeclient.png"> 
 
-After you have completed this step. You must write an if else statement like in the following image:
+After you have completed this step. You must write an "if else" statement like in the following image:
 
 <img src="/images-map-manual/pipo.png"> 
 
-At this period in time only use the serial monitor (highlighted in red below) to see if your code works.
+At this period in time only use the serial monitor (highlighted in red in the image below) to see if your code works.
 
 <img src="/images-map-manual/serialmonitor.png">
 
@@ -203,7 +203,7 @@ Once you know the code works properly, navigate to File > Example > Adafruit Neo
 
 https://siytek.com/esp8266-cant-connect-to-wifi-its-probably-one-of-these/
 
-Check your serial monitor frequently to ensure you are connected to the (right) network . If you are no longer connected to a network, (or you ARE connected to a 5Ghz network) a row of dots will be displayed in the serial monitor. This is however, only an issue regarding connection and doesn't mean that your code is the problem. In order to prevent this, make sure you're connected to any network that doesn't run on 5Ghz. (see below the dots highlighted in red)
+Check your serial monitor frequently to ensure you are connected to the (right) network. If you see a row of dots displayed in your serial monitor it means you are either no longer connected to a network, or you ARE connected to a 5Ghz network however, this is not compatible (see link above). Please bear in mind, this is only an issue regarding connection and doesn't mean that your code is the problem. In order to prevent this, make sure you're connected to any network that doesn't run on 5Ghz. (see below the dots highlighted in red)
 
 <img src="/images-map-manual/wifi connect error.png"> 
 
