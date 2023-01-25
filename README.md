@@ -215,8 +215,11 @@ Once you've followed all the steps. You should be able to change the color of yo
 
 # Errors
 
-Below is an image of the error I encountered. It wasn't anything major as it was only a misplaced bracket in the code.
-Once I removed the "}" at line 165, it resolved the issue
+If you encounter any illogical errors, start off by looking for any misplaced characters within your code, such as: }, ;, :, etc.
+Sometimes finding these will resolve the error and save you time looking for a problem that might not be there.
+
+Below is an image of a similar error I encountered. It wasn't anything major as it was only a misplaced bracket in the code.
+Once I removed the "}" at line 165, it resolved the issue.  
 
 <img src="/images-map-manual/bracketerror.png"> 
 
