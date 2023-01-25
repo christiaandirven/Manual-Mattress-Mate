@@ -8,9 +8,10 @@
   - Required software
   - Arduino libraries
   - Installing Arduino
+  - Port connection error
 - The tutorial
-  - Important
-  - List of errors
+  - Network connection error
+  - Code misplacement error
 - Sources
 
 # Before we get started
@@ -48,6 +49,8 @@ Before we do get started on the actual tutorial portion of this manual, you need
 You also have to make sure your board is properly installed so that it can connect to the Arduino software. Do this by selecting your specific board and port in Arduino.
 
 <img src="/images-map-manual/rightconnectport.png">
+
+# Port connection error
 
 Failing to select the right port will give you problems later down the line, as you won't be able to connect to your board and follow this manual.
 (this will result in the following port connection errors as shown below)
@@ -199,7 +202,7 @@ Once you know the code works properly, navigate to File > Example > Adafruit Neo
 
 <img src="/images-map-manual/adafruit neopixel simple.png"> 
 
-## Important
+# Network connection error
 
 https://siytek.com/esp8266-cant-connect-to-wifi-its-probably-one-of-these/
 
@@ -213,7 +216,7 @@ Afterwards add the following code in order to change the color of your LED depen
 
 Once you've followed all the steps. You should be able to change the color of your LED depending on the time of day.
 
-# List of errors
+# Code misplacement error
 
 If you encounter any illogical errors, start off by looking for any misplaced characters within your code, such as: }, ;, :, etc.
 Sometimes finding these will resolve the error and save you time looking for a problem that might not be there.
