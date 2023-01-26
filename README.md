@@ -12,8 +12,8 @@
 - The tutorial
   - Network connection error
   - Code misplacement error
+  - Final result
 - Sources
-- Final result
 
 # Before we get started
 # What are we going to do?
