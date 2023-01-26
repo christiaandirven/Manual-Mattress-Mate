@@ -231,7 +231,7 @@ Once I removed the "}" at line 165, it resolved the issue.
 
 # Final result
 
-This is the [final result] (https://youtu.be/utAy1oouMkE)
+This is the [final result](https://youtu.be/utAy1oouMkE)
 
 # Sources
 
